@@ -1,2 +1,5 @@
 1.Setup.py is contain python package dependencies Its is pure python code.
-2.
+2.PyPI is the similar repository management system like npm or maven.
+3.cammand  file contain all command which we need to do before installing through pip command.
+4.requirements.txt file contain installed packages by using pip we can directly install requirements.txt file.
+5.This is automatic package installation process.
